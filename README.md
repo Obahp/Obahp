@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obahp
 - 👀 I’m interested in Full stack Dev
-- 🌱 I’m currently TechLab Contractor @ BYU-Pathway Worldwide
+- 🌱 I’m currently a TechLab Contractor @ BYU-Pathway Worldwide
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... +2348067720557
 
